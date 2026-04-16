@@ -1,0 +1,12 @@
+# تجاهل ملفات السيرفر المحلي
+error_log
+.htpasswd
+.htaccess
+
+# تجاهل ملف الاتصال السري بقاعدة البيانات (النصيحة الأمنية)
+connection.php
+config.php
+
+# تجاهل ملفات النظام
+Thumbs.db
+Desktop.ini
